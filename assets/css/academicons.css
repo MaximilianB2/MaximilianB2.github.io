@@ -15,6 +15,26 @@
         url('../fonts/academicons.woff') format('woff'),
         url('../fonts/academicons.svg') format('svg');
 }
+:root {
+  --color-teal: #0F8B8D;
+  --color-blue: #2A4494;
+  --color-green: #A8C686;
+  --color-light-blue: #669BBC;
+}
+
+/* Example usage */
+body {
+  background-color: var(--color-light-blue);
+  color: var(--color-blue);
+}
+
+header {
+  background-color: var(--color-teal);
+}
+
+.accent {
+  color: var(--color-green);
+}
 .ai {
   font-family: 'Academicons';
   font-weight: 400;
