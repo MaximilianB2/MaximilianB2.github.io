@@ -1,8 +1,15 @@
-Contributions are welcome! 
+All contributions, including merge requests, feature requests, ideas, design tweaks, etc. are welcome. 
+I welcome all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+## Feature Requests
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course, 
+code submission via a merge/pull request is great, but not necessary.
 
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+## Bug Reports
 
+If you encounter any issues with these themes on any devices, please submit a bug report with the device type and a detailed description of what 
+the issue that you're encountering is.
+<br /><br />
+
+*Thank you*
