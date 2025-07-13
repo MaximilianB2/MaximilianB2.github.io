@@ -50,7 +50,6 @@ education:
   - area: PhD - Reinforcement Learning
     institution: Imperial College London
     date_start: 2023
-    date_end: Present
 
   - area: MSc - Chemical Engineering with Process Systems Engineering
     institution: Imperial College London
