@@ -49,36 +49,20 @@ interests:
 education:
   - area: PhD - Reinforcement Learning
     institution: Imperial College London
-    date_start: 2023
-
   - area: MSc - Chemical Engineering with Process Systems Engineering
     institution: Imperial College London
-    date_start: 2022
-    date_end: 2023
     summary: |
       Grade: Distinction
 
   - area: BEng Chemical Engineering
     institution: University of Edinburgh
-    date_start: 2018
-    date_end: 2022
     summary: |
       GPA: First Class Honours
       
 Experience:
   - position: Visiting Researcher
     company_name: University of Alberta
-    date_start: 2025
     summary: 
       Visted the RLAI group hosted by Dr. Martha White 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-languages:
-  - name: English
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
