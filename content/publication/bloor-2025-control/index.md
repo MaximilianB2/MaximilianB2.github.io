@@ -13,7 +13,10 @@ publication_types:
 - article-journal
 publication: '*Industrial & Engineering Chemistry Research*'
 code_link: "https://github.com/OptiMaL-PSE-Lab/CIRL"  # Replace with your code repo URL
+
 paper_link: "https://pubs.acs.org/doi/10.1021/acs.iecr.4c03233"        # Replace with your paper URL
+
+---
 
 **Links:**  
 [Code Repository](https://github.com/OptiMaL-PSE-Lab/CIRL)  
