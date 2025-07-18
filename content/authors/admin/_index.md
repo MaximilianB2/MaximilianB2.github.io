@@ -41,6 +41,11 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-8046-8954
 
+# Download CV button below social icons
+cv:
+  text: Download CV
+  url: /uploads/resume.pdf
+
 interests:
   - Reinforcement Learning
   - Chemical Process Control
