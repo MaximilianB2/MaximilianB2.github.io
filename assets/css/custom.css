@@ -1,11 +1,24 @@
 
 
-/* White box and black text for the profile section on the homepage */
-.block.resume-biography-3, .block.resume-biography-3 * {
-  background: #fff !important;
-  color: #111 !important;
+
+/* White box behind profile content, above background image */
+.block.resume-biography-3 {
+  position: relative;
+  z-index: 1;
+}
+.block.resume-biography-3 .profile-white-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.95);
   border-radius: 16px;
   box-shadow: 0 2px 16px rgba(0,0,0,0.07);
-  padding: 2rem;
-  margin-bottom: 2rem;
+  z-index: 1;
+}
+.block.resume-biography-3 .profile-content {
+  position: relative;
+  z-index: 2;
+  color: #111 !important;
 }
