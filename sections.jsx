@@ -32,9 +32,7 @@ function Hero() {
             and{" "}
             <a href={BIO.groups[1].url} target="_blank" rel="noreferrer">Tsay</a>{" "}
             groups on reinforcement learning, Bayesian optimization, and process
-            systems engineering. I build methods that actually deploy — on refrigeration
-            plants, reactor designs, and other things that complain loudly when you get
-            them wrong.
+            systems engineering.
           </p>
           <div className="quick sans">
             <span>{BIO.location}</span>
@@ -56,8 +54,7 @@ function Bio() {
       <SectionHead title="About" meta="02" />
       <p>
         I'm in the third year of a PhD in Chemical Engineering &amp; Computer Science at Imperial,
-        supervised in the PSE group. My work sits between RL theory — provable behaviour for
-        finite-horizon problems — and the messier job of getting those ideas to survive a
+        supervised in the PSE group. My work sits between RL theory  and the messier job of getting those ideas to survive a
         real industrial plant.
       </p>
       <p>
