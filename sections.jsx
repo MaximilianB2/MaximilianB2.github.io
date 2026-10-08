@@ -255,28 +255,7 @@ function Teaching() {
   );
 }
 
-/* ---------- Consultancy ---------- */
-function Consultancy() {
-  return (
-    <section className="section reveal" id="consulting">
-      <SectionHead title="Consulting" meta="07" />
-      <div className="consult">
-        <span className="badge">Available · RL & BO</span>
-        <div className="copy">
-          <h3>Reinforcement Learning and Bayesian Optimization</h3>
-          <p>
-            I take on a small number of consulting engagements each year — typically helping teams
-            apply Reinforcement Learning and Bayesian Optimization to decision-making and 
-            optimization problems. Happy to scope a short discovery call.
-          </p>
-        </div>
-        <a className="cta plain" href={`mailto:${BIO.email}?subject=Consulting%20enquiry`}>
-          Get in touch →
-        </a>
-      </div>
-    </section>
-  );
-}
+
 
 /* ---------- CV ---------- */
 function CV() {
